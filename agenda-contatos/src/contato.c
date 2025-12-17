@@ -233,6 +233,7 @@ void menu_principal(Contato* ag){
                 nome = le_nome();
                 num = le_numero();
                 ag = ctt_insere(nome, num, ag);
+                printf("\nContato adicionado!\n");
                 free(nome);
                 free(num);
                 break;
@@ -252,4 +253,5 @@ void menu_principal(Contato* ag){
                 printf("Encerrando programa...\n");
         }
     }while(flag != 5);
+
 }
