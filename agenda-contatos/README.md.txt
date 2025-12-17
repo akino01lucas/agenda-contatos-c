@@ -17,7 +17,8 @@ De minha autoria, foram criadas as funções:
 -main_menu()
 -formata_num()
 
-O programa consiste na criação e edição de uma lista telefônica, que guarda o contato que possui nome e número de telefone em uma agenda, nos moldes de uma lista encadeada. É possível adicionar, remover, buscar e visualizar contatos da agenda.
+O programa consiste na criação e edição de uma lista telefônica, que guarda o contato que possui nome e número de telefone em uma agenda, nos moldes
+de uma lista encadeada. É possível adicionar, remover, buscar e visualizar contatos da agenda.
 
 Esta é a primeira versão utilizável, logo, o programa pode apresentar bugs sutis. Os Bugs serão corrigidos e o programa será atualizado ao decorrer
 do meu período no curso.
@@ -30,6 +31,7 @@ Os comandos para compilar o código no terminal são:
 
 Autor: Lucas da Silva Aquino
 Ultima atualização: 16/12/2025
+
 
 
 
