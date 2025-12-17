@@ -11,15 +11,22 @@ Tais conhecimentos envolvem:
 Também foram utilizados conhecimentos da matéria Programação Estruturada, do primeiro período do curso, como a criação de funções e a utilização
 de funções da biblioteca string.h e a criação de pastas estruturadas e bem definidas para a organização do projeto.
 
-De minha autoria, foram criadas as funções:
--le_nome()
--le_numero()
--main_menu()
--formata_num()
-
 O programa consiste na criação e edição de uma lista telefônica, que guarda o contato que possui nome e número de telefone em uma agenda, nos moldes
 de uma lista encadeada. É possível adicionar, remover, buscar e visualizar contatos da agenda.
 Os códigos possuem comentários pontuais explicando as principais variáveis e funções utilizadas e o projeto está bem documentado.
+
+De minha autoria, foram criadas as funções:
+
+-ctt_cria()
+-ctt_insere()
+-ctt_remove()
+-ctt_busca()
+-agenda_mostra()
+-agenda_libera()
+-le_nome()
+-le_numero()
+-menu_principal()
+-formata_num()
 
 Esta é a primeira versão utilizável, logo, o programa pode apresentar bugs sutis. Os Bugs serão corrigidos e o programa será atualizado ao decorrer
 do meu período no curso.
